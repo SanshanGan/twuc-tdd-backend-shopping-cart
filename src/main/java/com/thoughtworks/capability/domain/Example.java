@@ -3,7 +3,7 @@ package com.thoughtworks.capability.domain;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;
-import lombok.Builder;
+import javax.net.ssl.*;
 import lombok.NoArgsConstructor;
 
 import javax.persistence.Entity;
